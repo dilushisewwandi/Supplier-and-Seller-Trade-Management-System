@@ -1,0 +1,4 @@
+20003   chillii powder      spices      made from dried chillies      150.0      50
+products{id=20003, purchasequantity=50, sellingprice=150.0, category=spices, prodname=chillii powder, description=made from dried chillies}
+20004   cinnamon powder      spices      made of cinnamon      200.0      100
+products{id=20004, purchasequantity=100, sellingprice=200.0, category=spices, prodname=cinnamon powder, description=made of cinnamon}

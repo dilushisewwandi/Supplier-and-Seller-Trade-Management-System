@@ -1,0 +1,2 @@
+1101;26;Kalindu Mihiranga;Male;poddala;079654321
+Seller{id=1101, age=26, supname=Kalindu Mihiranga, gender=Male, address=poddala, contactnum=079654321}
